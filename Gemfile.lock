@@ -79,15 +79,9 @@ GEM
       execjs
     coffee-script-source (1.12.2)
     commonjs (0.2.7)
-<<<<<<< .merge_file_AFVove
     concurrent-ruby (1.1.5)
     crass (1.0.5)
     devise (4.7.1)
-=======
-    concurrent-ruby (1.0.5)
-    crass (1.0.5)
-    devise (4.4.3)
->>>>>>> .merge_file_mnDKcj
       bcrypt (~> 3.0)
       orm_adapter (~> 0.1)
       railties (>= 4.1.0)
@@ -135,11 +129,15 @@ GEM
     mimemagic (0.3.2)
     mini_mime (1.0.0)
     mini_portile2 (2.4.0)
+<<<<<<< .merge_file_hXp0ss
 <<<<<<< .merge_file_AFVove
     minitest (5.13.0)
 =======
     minitest (5.11.3)
 >>>>>>> .merge_file_mnDKcj
+=======
+    minitest (5.13.0)
+>>>>>>> .merge_file_sToJhx
     multi_json (1.13.1)
     nio4r (2.3.1)
     nokogiri (1.10.7)
