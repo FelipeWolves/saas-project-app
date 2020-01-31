@@ -129,15 +129,7 @@ GEM
     mimemagic (0.3.2)
     mini_mime (1.0.0)
     mini_portile2 (2.4.0)
-<<<<<<< .merge_file_hXp0ss
-<<<<<<< .merge_file_AFVove
     minitest (5.13.0)
-=======
-    minitest (5.11.3)
->>>>>>> .merge_file_mnDKcj
-=======
-    minitest (5.13.0)
->>>>>>> .merge_file_sToJhx
     multi_json (1.13.1)
     nio4r (2.3.1)
     nokogiri (1.10.7)
@@ -262,4 +254,4 @@ DEPENDENCIES
   web-console (>= 3.3.0)
 
 BUNDLED WITH
-   1.16.1
+   2.1.4
